@@ -1,1 +1,1 @@
-# Starter
+# EsLint-pass
